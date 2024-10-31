@@ -33,7 +33,7 @@ def main():
         t.geometry('+%d+%d'%(x,y))
         time.sleep(0.01)
     win.withdraw()
-    #dialogue.main(dialogue.diaList,dialogue.responseList)
+    dialogue.main(dialogue.diaList,dialogue.responseList)
     try:
         starttime = datetime.datetime.now()
         print('af')
