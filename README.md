@@ -23,13 +23,8 @@
 
 # WARNINGS
   * I mean obviously this isn't a virus so you have nothing to worry about
-
-
-
-
-
-
   * May be a virus
+  * DOWNLOAD AT YOUR OWN RISK THIS IS UNFINISHED
 
 # Update log
   * Still bugfixing in MASS
