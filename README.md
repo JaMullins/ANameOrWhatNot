@@ -12,8 +12,14 @@
 
 # Images from the 'game'
 ![image](https://github.com/user-attachments/assets/cf8da143-dd27-4b0b-a1e9-26e0c4da9171)
-![image](https://github.com/user-attachments/assets/5544a3a9-1572-4ac8-9789-b5b44c157e41)
 ![image](https://github.com/user-attachments/assets/4d13591e-f5b8-4bcf-bda6-66cb4d3db635)
+![ad_6](https://github.com/user-attachments/assets/9cec572d-5dc4-41a5-aefa-b732cb58df82)
+![ad_5](https://github.com/user-attachments/assets/a89c2655-b14a-4678-964a-40b2b3db60d3)
+![ad_4](https://github.com/user-attachments/assets/0b5af9e8-f78d-4e13-8415-1895f2ba9aeb)
+![ad_3](https://github.com/user-attachments/assets/4af25f67-e470-4edc-872d-4e4b67b67454)
+![ad_2](https://github.com/user-attachments/assets/2dc01f83-586e-4b6e-8240-2dd4ec1f26a6)
+![ad_1](https://github.com/user-attachments/assets/be9e80de-2a04-4069-a0d1-6bc8526b260f)
+
 
 
 # HOW TO DOWNLOAD *VERY IMPORTANT*
