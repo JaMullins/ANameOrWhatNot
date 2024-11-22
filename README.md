@@ -27,4 +27,5 @@
   * DOWNLOAD AT YOUR OWN RISK THIS IS UNFINISHED
 
 # Update log
-  * Still bugfixing in MASS
+  * Final version uploaded as of 11/22/2024
+  * Game is not finished, nor will it ever be
