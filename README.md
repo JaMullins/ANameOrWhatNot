@@ -17,7 +17,8 @@
 
 
 # HOW TO DOWNLOAD *VERY IMPORTANT*
-  * Download the file
+  * Download the FINAL_GAME.zip file
+  * Extract or import into PyCharm as project
   * Run the file called "main"
   * That's it.
 
